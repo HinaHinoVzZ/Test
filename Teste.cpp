@@ -1,7 +1,7 @@
 #include <iostream>
 
-int main(){
+int main() {
   std::cout << "ola mundo";
   return 0; 
-  }
+}
   
