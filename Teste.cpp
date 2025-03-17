@@ -1,7 +1,7 @@
 #include <iostream>
-using namespace std;
-int main()
-{
-  cout << "ola mundo";
+
+int main(){
+  std::cout << "ola mundo";
   return 0; 
   }
+  
